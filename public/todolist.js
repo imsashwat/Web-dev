@@ -6,7 +6,7 @@ $(function () {
 
     addtodoBtn.click(function () {
         let newTodo = newTodoBox.val()
-
+//
         $.post(
             '/todos/',
             {task: newTodo},
