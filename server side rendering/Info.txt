@@ -1,0 +1,1 @@
+server side rendering is done when the browser does not have js enabled so server   we have to create HTML pages dynamically on the server and render them to client without having to run js code on client.
